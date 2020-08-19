@@ -1,0 +1,40 @@
+Entity List=>(1)Customer
+                      (2)Order
+                      (3)Category
+                      (4)Shoe
+                      (5)Payment
+                      
+Attribute for Customer entity
+-CustomerID
+-CustomerName
+-CustomerAddress
+-CuatomerEmail
+-CustomerPhone
+
+Attribute for Order entity
+-OrderID
+-OrderDate
+
+Attribute for Category entity
+-CategoryID
+-CategoryType
+
+Attribute for Shoe entity
+-ShoeID
+-ShoePrice
+-ShoeColor
+-ShoeBrand
+-ShoeSize
+-ShoeDescription
+
+Attribute for Payment entity
+-Amount 
+-Balance
+
+
+
+
+
+
+
+

@@ -1,0 +1,41 @@
+Entity List=>(1)User
+                      (2)Order
+                      (3)Product
+                      (4)Payment
+                      (5)DeliveryReport
+                      (6)Delivery
+                      
+Attribute for User entity
+-user_id
+-user_name
+-user_address
+-user_email
+-user_phone
+
+Attribute for Order entity
+-order_id
+-order_date
+-qty
+
+Attribute for Product entity
+-product_id
+-product_name
+-product_type
+-product_price
+
+Attribute for Payment entity
+-payment_id
+-amount
+-balance
+-payment_details
+
+Attribute for DeliveryReport entity
+-report_id
+-report_date
+
+Attribute for Delivery entity
+-deliver_no
+-deliver_date
+-deliver_place
+
+
